@@ -1,0 +1,20 @@
+body {
+    background-color: lightgreen;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+p {
+    text-align: center;
+    border: 5px solid #55BA67;
+    padding: 20px;
+    cursor: crosshair;
+}
+
+li {
+    list-style: none;
+    display: inline;
+}
